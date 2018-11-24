@@ -14,7 +14,7 @@ title: Tiny CV
 * Bsc. Information Technology completed from [KCA university](https://www.kca.ac.ke/) in Nairobi, Kenya. 
 * Links to my:
     * [LinkedIn](https://www.linkedin.com/in/peter-onyango-184446132/)
-    * [Full C.V](https://bit.ly/2DRhQl6)
+    * [Full C.V](https://bit.ly/2PQXLSA)
     * Projects
          - [Github](https://github.com/peter-akworo?tab=repositories)
          - [Tableau Public Server](https://public.tableau.com/profile/peter.otieno5509#!/)
