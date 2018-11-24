@@ -3,8 +3,7 @@ layout: post
 title: Aga Khan field enumerator and or field data collector Kilifi
 categories: []
 tags: [job]
-description:
-date: "%F %H:%M:%S %z" 
+description: 
 comments: true
 ---
 
