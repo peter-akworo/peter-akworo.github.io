@@ -3,8 +3,8 @@ layout: page
 title: Tiny CV
 ---
 
-* Data Analysis|Data Science|Business Intelligence|DataViz
-=================================================
++ Data Analysis|Data Science|Business Intelligence|DataViz
+------------------------------------------------------------------------------
 * Data Assistant at [International Rescue Committee (IRC)](https://www.rescue.org/)
 * Data Assistant at [Amref](https://amref.org/) in partnership with [MOMALA](https://momala.org/)
 * Data transcription lead at [ICAP - KENPHIA](https://phia.icap.columbia.edu/countries/kenya/)
