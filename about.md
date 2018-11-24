@@ -16,5 +16,5 @@ title: Tiny CV
     * [LinkedIn](https://www.linkedin.com/in/peter-onyango-184446132/)
     * [Full C.V](https://bit.ly/2DRhQl6)
     * Projects
-         -(https://github.com/peter-akworo?tab=repositories)
-         -(https://public.tableau.com/profile/peter.otieno5509#!/)
+         -[Github](https://github.com/peter-akworo?tab=repositories)
+         -[Tableau Public Server](https://public.tableau.com/profile/peter.otieno5509#!/)
