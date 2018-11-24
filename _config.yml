@@ -16,10 +16,10 @@ paginate_path:    '/blog/page:num/'
 
 author:
   name: 'Peter Otieno'
-  email: 'pittonyango[at]gmail[dot]com'
+  email: 'datanomadke[at]gmail[dot]com'
   github: peter-akworo
   twitter: datanomadke
-  linkedin: https://www.linkedin.com/in/peter-onyango-184446132/
+  linkedin: https://www.linkedin.com/in/peter-onyango/
   email_md5: c2c283745c9b7aae554054a38e953f16
   emailalt_md5: c2c283745c9b7aae554054a38e953f16
   disqus_shortname: peter-akworo-github-io
