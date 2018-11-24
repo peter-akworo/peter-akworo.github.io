@@ -4,7 +4,7 @@ title: Aga Khan field enumerator and or field data collector Kilifi
 categories: []
 tags: [job]
 description:
-timestamp: Posted at %B-%d-%Y %r
+timestamp: Posted at %B%d%Y%r
 comments: true
 ---
 
