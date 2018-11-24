@@ -4,7 +4,7 @@ title: Tiny CV
 ---
 
 * Data Analysis|Data Science|Business Intelligence|DataViz
------------------------------------------------------------
+=================================================
 * Data Assistant at [International Rescue Committee (IRC)](https://www.rescue.org/)
 * Data Assistant at [Amref](https://amref.org/) in partnership with [MOMALA](https://momala.org/)
 * Data transcription lead at [ICAP - KENPHIA](https://phia.icap.columbia.edu/countries/kenya/)
@@ -14,5 +14,5 @@ title: Tiny CV
 * Bursary recepient at [The PLO Lumumba Foundation](https://plofoundation.org/) from 2012-2017
 * Bsc. Information Technology completed from [KCA university](https://www.kca.ac.ke/) in Nairobi, Kenya. 
 * Links to my:
-    * [LinkedIn]({{ site.author.linkedin }})
+    * [LinkedIn](https://www.linkedin.com/in/peter-onyango-184446132/)
     * [Full C.V](https://bit.ly/2DRhQl6)
