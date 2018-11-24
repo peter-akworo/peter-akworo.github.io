@@ -4,7 +4,6 @@ title: Tiny CV
 ---
 
 ## Data Analysis|Data Science|Business Intelligence|DataViz
----------------------------------------------------------
 * Data Assistant at [International Rescue Committee (IRC)](https://www.rescue.org/)
 * Data Assistant at [Amref](https://amref.org/) in partnership with [MOMALA](https://momala.org/)
 * Data transcription lead at [ICAP - KENPHIA](https://phia.icap.columbia.edu/countries/kenya/)
@@ -16,3 +15,6 @@ title: Tiny CV
 * Links to my:
     * [LinkedIn](https://www.linkedin.com/in/peter-onyango-184446132/)
     * [Full C.V](https://bit.ly/2DRhQl6)
+    * Projects
+         -(https://github.com/peter-akworo?tab=repositories)
+         -(https://public.tableau.com/profile/peter.otieno5509#!/)
