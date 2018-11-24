@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Aga Khan field enumerator and or field data collector Kilifi
 categories: []
 tags: [job]
