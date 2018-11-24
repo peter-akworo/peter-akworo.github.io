@@ -1,6 +1,6 @@
 ## peter-akworo.github.io
 
-Personal website - [http://peter-akworo.github.io] 
+Personal website [https://peter-akworo.github.io] (https://peter-akworo.github.io)
 
 ### Lanyon by [Mark Otto](https://github.com/mdo)
 
