@@ -16,7 +16,7 @@ paginate_path:    '/blog/page:num/'
 
 author:
   name: 'Peter Otieno'
-  email: 'datanomadke[at]gmail[dot]com'
+  email: 'datanomadke@gmail.com'
   github: peter-akworo
   twitter: datanomadke
   linkedin: peter-onyango/
