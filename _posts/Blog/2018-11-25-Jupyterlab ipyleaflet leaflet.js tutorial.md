@@ -1,10 +1,10 @@
-Leaflet.js using ipyleaflet package(Kenya maps)
+*Leaflet.js* using the *python* package *ipyleaflet* (Kenya maps)
 
-This project is a tutorial on leaflet.js using Jupyter notebooks through the ipyleaflet package/library
+This project is a tutorial on *leaflet.js* using *Jupyter notebooks* through the *ipyleaflet* package/library
 
 [Github repository for the tutorial](https://github.com/peter-akworo/Leaflet.Js_ipyleaflet)
 
-The maps are kenyan maps made using leaflet.js through the python package ipyleaflet:
+The maps are kenyan maps rendered using *leaflet.js* through the *python* package *ipyleaflet*:
 ![image sholud go here](https://github.com/peter-akworo/Leaflet.Js_ipyleaflet/raw/master/kenyapng.png)
 
 
@@ -12,7 +12,7 @@ The maps are kenyan maps made using leaflet.js through the python package ipylea
 
 ### Prerequisites
 
-Be running Jupyter. I use the anaconda installer: https://www.continuum.io/downloads
+Be running *Jupyter*. I use the *anaconda* installer: https://www.continuum.io/downloads
 
 You'll also need to install the library listed below, if you don't have it
 
