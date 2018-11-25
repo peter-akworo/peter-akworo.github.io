@@ -8,9 +8,9 @@ permalink:        pretty
 # Setup
 title:            'Peter Otieno'
 tagline:          'Data Analysis|Data Science|Business Intelligence|DataViz'
-description:      'Excelsior<br/>
+description:      '<center>Excelsior</center><br/>
                    seize the day, as little as possible trusting the future<br/>
-                   *Ode 1.11*'
+                   <center><em>Ode 1.11</em></center>'
 url:              https://peter-akworo.github.io/
 baseurl:          ''
 paginate:         5
