@@ -5,8 +5,7 @@ categories: []
 tags: [job]
 description:
 timestamp: Posted at 25 November 2018
-category: Job
-secondary: secondary
+permalink: https://peter-akworo.github.io/Jobs/Aga_khan_enumerator.md
 comments: true
 ---
 
