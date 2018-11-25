@@ -1,4 +1,3 @@
-# *Jupyterlab ipyleaflet leaflet.js tutorial*
 Leaflet.js using ipyleaflet package(Kenya maps)
 
 This project is a tutorial on leaflet.js using Jupyter notebooks through the ipyleaflet package/library
