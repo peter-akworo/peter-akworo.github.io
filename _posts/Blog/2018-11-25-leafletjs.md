@@ -1,4 +1,4 @@
-# Leaflet.Js_ipyleaflet
+# *Leaflet.Js_ipyleaflet*
 Leaflet.js using ipyleaflet package(Kenya maps)
 ## Jupyterlab ipyleaflet leaflet.js tutorial
 
